@@ -28,10 +28,9 @@
   <a href="mailto:petrucci_@outlook.com.br"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
  <a href="https://dev.to/petrucc1" target="_blank"> <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/sarah-petrucci-a694671b5/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+ <a href="https://medium.com/@petrucci_" target="_blank"> <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a>
   <a href="https://www.freecodecamp.org/petrucc1" target="_blank"> <img src="https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green" target="_blank"></a>
-  <a href="https://medium.com/@petrucci_" target="_blank"> <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a>
   <a href="https://leetcode.com/petrucc1/" target="_blank"> <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" target="_blank"></a>
-  <a href="https://docs.microsoft.com/pt-br/users/petrucc1/" target="_blank"> <img src="https://img.shields.io/badge/Microsoft_Learn-258ffa?style=for-the-badge&logo=microsoft&logoColor=white" target="_blank"></a>
 <!--   <a href="" target="_blank"> <img src="" target="_blank"></a> -->
  
   ![Snake animation](https://github.com/petrucc1/petrucc1/blob/output/github-contribution-grid-snake.svg)

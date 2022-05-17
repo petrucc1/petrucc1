@@ -3,7 +3,7 @@
  <div width="100%">
   <a href="https://github.com/petrucc1">
   <img height="180em" width="50%" align="center" src="https://github-readme-stats.vercel.app/api?username=petrucc1&show_icons=true&theme=codeSTACKr"/>
-  <img height="200em" width="45%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=petrucc1&layout=compact&theme=codeSTACKr"/>
+  <img height="190em" width="45%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=petrucc1&layout=compact&theme=codeSTACKr"/>
   <img width="50%" "https://github-readme-stats.vercel.app/api/pin/?username=petrucc1&repo=ticketMusic&theme=codeSTACKr"/>
   
 </div>

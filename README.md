@@ -2,8 +2,9 @@
 
  <div>
   <a href="https://github.com/petrucc1">
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=petrucc1&show_icons=true&theme=codeSTACKr"/>
-  <img height="180em" width="180px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=petrucc1&theme=codeSTACKr"/>
+  <img height="280em" align="center" src="https://github-readme-stats.vercel.app/api?username=petrucc1&show_icons=true&theme=codeSTACKr"/>
+  <img height="280em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=petrucc1&theme=codeSTACKr"/>
+  
 </div>
   <div style="display: inline_block"><br>
   <img align="center" alt="Sarah-NodeJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">

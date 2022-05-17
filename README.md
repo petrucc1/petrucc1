@@ -2,8 +2,9 @@
 
  <div>
   <a href="https://github.com/petrucc1">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=petrucc1&show_icons=true&theme=codeSTACKr"/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=petrucc1&layout=compact&theme=codeSTACKr"/>
+  <img width="50%" align="center" src="https://github-readme-stats.vercel.app/api?username=petrucc1&show_icons=true&theme=codeSTACKr"/>
+  <img width="50%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=petrucc1&layout=compact&theme=codeSTACKr"/>
+  <img width="50%" "https://github-readme-stats.vercel.app/api/pin/?username=petrucc1&repo=ticketMusic&theme=codeSTACKr"/>
   
 </div>
   <div style="display: inline_block"><br>

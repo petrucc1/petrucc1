@@ -2,8 +2,8 @@
 
  <div>
   <a href="https://github.com/petrucc1">
-  <img height="200em" align="center" src="https://github-readme-stats.vercel.app/api?username=petrucc1&show_icons=true&theme=codeSTACKr"/>
-  <img height="200em" width="450em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=petrucc1&layout=compact&theme=codeSTACKr"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=petrucc1&show_icons=true&theme=codeSTACKr"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=petrucc1&layout=compact&theme=codeSTACKr"/>
   
 </div>
   <div style="display: inline_block"><br>

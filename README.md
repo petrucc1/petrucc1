@@ -3,7 +3,7 @@
  <div>
   <a href="https://github.com/petrucc1">
   <img height="200em" align="center" src="https://github-readme-stats.vercel.app/api?username=petrucc1&show_icons=true&theme=codeSTACKr"/>
-  <img height="280em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=petrucc1&theme=codeSTACKr"/>
+  <img height="200em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=petrucc1&layout=compact&theme=codeSTACKr"/>
   
 </div>
   <div style="display: inline_block"><br>

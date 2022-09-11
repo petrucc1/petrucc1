@@ -5,7 +5,6 @@
   <img height="180em" width="50%" align="center" src="https://github-readme-stats.vercel.app/api?username=petrucc1&show_icons=true&theme=codeSTACKr"/>
   <img height="180em" width="45%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=petrucc1&layout=compact&theme=codeSTACKr"/>
   <img width="50%" "https://github-readme-stats.vercel.app/api/pin/?username=petrucc1&repo=ticketMusic&theme=codeSTACKr"/>
-  <a href="https://github.com/JaeSeoKim/badge42"><img height="180em" width="52%" align="center" src="https://badge42.vercel.app/api/v2/cl5h1p869003009kz2gxgxhti/stats?cursusId=21&coalitionId=undefined" alt="ssoares-'s 42 stats"/></a>
   
 </div>
   <div style="display: inline_block"><br>

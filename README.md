@@ -1,4 +1,4 @@
-### Hello! I'm Sarah.
+### Olá! Eu sou a Sarah.
 
  <div width="100%">
   <a href="https://github.com/petrucc1">

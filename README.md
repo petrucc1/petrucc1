@@ -47,9 +47,9 @@
 </picture>
 
 ###
-
+<!--
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=petrucc1&locale=pt-br&mode=daily&theme=merko&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
+-->
 
-###
